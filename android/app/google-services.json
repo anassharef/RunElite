@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "830117002597",
+    "project_id": "runelite-1ca64",
+    "storage_bucket": "runelite-1ca64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830117002597:android:41ed70396b77cddbdeb58c",
+        "android_client_info": {
+          "package_name": "com.example.runelite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfZGgNZEenvrnV0aNb1elOoQW18gK74c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830117002597:android:08046c82234a05d0deb58c",
+        "android_client_info": {
+          "package_name": "com.technion.RunElite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCfZGgNZEenvrnV0aNb1elOoQW18gK74c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
